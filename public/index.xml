@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>cchalop1</title>
+    <link>http://cchalop1.com/</link>
+    <description>Recent content on cchalop1</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 27 Apr 2020 21:42:29 +0200</lastBuildDate>
+    
+	<atom:link href="http://cchalop1.com/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>My First Post</title>
+      <link>http://cchalop1.com/posts/my-first-post/</link>
+      <pubDate>Mon, 27 Apr 2020 21:42:29 +0200</pubDate>
+      
+      <guid>http://cchalop1.com/posts/my-first-post/</guid>
+      <description>bonjour tout le monde</description>
+    </item>
+    
+  </channel>
+</rss>
